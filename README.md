@@ -1,2 +1,1 @@
-# campflaw.github.io
-The F.L.A.W. Website
+# The F.L.A.W. Website
