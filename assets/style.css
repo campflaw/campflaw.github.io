@@ -26,3 +26,9 @@ body {
 .text-shadow {
     text-shadow: 2px 2px 8px black;
 }
+
+@media (min-width: 768px) {
+    .w-md-50 {
+        width: 50% !important;
+    }
+}
