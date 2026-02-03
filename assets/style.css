@@ -31,4 +31,14 @@ body {
     .w-md-50 {
         width: 50% !important;
     }
+
+    .w-md-25 {
+        width: 25% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .w-sm-50 {
+        width: 50% !important;
+    }
 }
