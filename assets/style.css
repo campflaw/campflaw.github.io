@@ -19,6 +19,14 @@
     height: 100vh
 }
 
+.bi {
+    transition: transform 10ms ease-in-out;
+}
+
+.bi:hover {
+    transform: scale(1.05);
+}
+
 body {
     overflow-x: hidden;
 }
