@@ -45,6 +45,10 @@ body {
     }
 }
 
+.backdrop-blur {
+    backdrop-filter: blur(2px);
+}
+
 @media (max-width: 768px) {
     .w-sm-50 {
         width: 50% !important;
