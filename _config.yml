@@ -24,6 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Lorem Ipsum Dolor Sit Amet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://campflaw.org" # the base hostname & protocol for your site, e.g. http://example.com
+socials:
+  twitter: https://twitter.com/
+  bluesky: https://bsky.app/profile/campflaw.org
+  instagram: https://instagram.com/
+  facebook: https://facebook.com/
 
 # Build settings
 # theme: minima
