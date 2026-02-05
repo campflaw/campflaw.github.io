@@ -15,6 +15,11 @@
     transform: scale(1.1);
 }
 
+.loaded-fade-in {
+    opacity: 0;
+    transition: all 2s ease;
+}
+
 .fullheight {
     height: 100vh
 }
