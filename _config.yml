@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://campflaw.org" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
   bluesky: https://bsky.app/profile/campflaw.org
-  twitter: 
+  twitter: https://x.com/campflaw_ny
   instagram: https://www.instagram.com/fingerlakesanthroweekend/
   facebook: 
   telegram: https://t.me/+s16guyB19dFlMmM5
