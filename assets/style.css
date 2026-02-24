@@ -44,7 +44,7 @@ body {
     text-shadow: 2px 2px 3px black;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 700px) {
     .w-md-50 {
         width: 50% !important;
     }
