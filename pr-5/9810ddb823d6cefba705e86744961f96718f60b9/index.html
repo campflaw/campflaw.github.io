@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="assets/style.css" rel=stylesheet>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="F.L.A.W." />
+    <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+	
+	<!-- Search Engine -->
+	 <meta name="title" content="Finger Lakes Anthro Weekend">
+    <meta name="description"
+        content="Finger Lakes Anthro Weekend is an annual furry weekend getaway to the summer camp of your childhood. Located in Penn Yan, NY, F.L.A.W. is complete with cabins, a main lodge, and outdoor activities right on Seneca Lake." />
+    <meta name="theme-color" content="#234c41">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content=https://campflaw.org />
+    <meta property="og:title" content=F.L.A.W. />
+    <meta property="og:description"
+        content="Finger Lakes Anthro Weekend is an annual furry weekend getaway to the summer camp of your childhood. Located in Penn Yan, NY, F.L.A.W. is complete with cabins, a main lodge, and outdoor activities right on Seneca Lake." />
+    <meta property="og:image" content="https://campflaw.org/assets/embed-card.png" />
+
+    <!-- X (Twitter) -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content=https://campflaw.org />
+    <meta property="twitter:title" content=F.L.A.W. />
+    <meta property="twitter:description"
+        content="Finger Lakes Anthro Weekend is an annual furry weekend getaway to the summer camp of your childhood. Located in Penn Yan, NY, F.L.A.W. is complete with cabins, a main lodge, and outdoor activities right on Seneca Lake." />
+    <meta property="twitter:image" content="https://campflaw.org/assets/embed-card.png" />
+
+    <title>F.L.A.W.</title>
+</head>
+
+<body>
+    <main>
+        <picture>
+    <source type="image/webp" srcset="assets/flaw-background.webp">
+    <source type="image/jpeg" srcset="assets/flaw-background.jpg">
+    <img class="loaded-fade-in background-blur" onload="this.style.opacity=1" src="assets/flaw-background.jpg" alt="blurred photo of a group of fursuiters waving their arms">
+</picture>
+
+<div class="container text-center fullheight d-flex justify-content-center align-items-center">
+    <div class="col">
+        <div class="container">
+            <p class="mb-0 pb-0 big-text-shadow lead">
+                <span class="fst-italic">Camp Pounce</span> is now...
+            </p>
+            <img src="assets/flaw-logo.svg" alt="the F.L.A.W. logo, a white sea serpent swimming in a lake"
+                class="w-md-25 w-sm-50">
+            <h1 class="display-1 text-shadow text-light-emphasis fw-bold mt-0 pt-0">Finger Lakes Anthro Weekend</h1>
+        </div>
+        <h2 class="fs-1 text-shadow pb-4 text-light-emphasis">May 28 - 31</h2>
+        <div class="card p-3 w-md-50 mx-auto shadow-lg rounded text-warning-emphasis mb-md-3 mb-2">
+            <p class="text-shadow pl-3 pr-3">Our camp counselors are working hard to make F.L.A.W. 2026 the best it can be!<br> Fill out our interest form, and we'll notify you when registration opens:<br></p>
+            <button type="modal" class="btn btn-success btn-lg mx-auto" data-bs-toggle="modal"
+                data-bs-target="#interestForm">F.L.A.W. Interest Form</button>
+        </div>
+        <div class="d-flex justify-content-center fs-4 column-gap-2">
+    
+    <a class="bi bi-bluesky text-body text-light-emphasis" href="https://bsky.app/profile/campflaw.org" alt="Bluesky"></a>
+    
+
+    
+    <a class="bi bi-twitter-x text-body text-light-emphasis" href="https://x.com/campflaw_ny" alt="X/Twitter"></a>
+    
+
+    
+
+    
+    <a class="bi bi-instagram text-body text-light-emphasis" href="https://www.instagram.com/fingerlakesanthroweekend/" alt="Instagram"></a>
+    
+
+    
+    <a class="bi bi-telegram text-body text-light-emphasis" href="https://t.me/fingerlakesanthroweekend" alt="Telegram"></a>
+    
+</div>
+    </div>
+</div>
+
+<!-- Interest form modal -->
+<div class="modal modal-fullscreen modal-lg fade" id="interestForm" data-bs-backdrop="static" data-bs-keyboard="false"
+    tabindex="-1" aria-labelledby="interestFormLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">F.L.A.W. Interest Form</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <iframe
+                    src="https://docs.google.com/forms/d/e/1FAIpQLSfFPPqVldLRddi28afWYHB_9G1Mtxm4eMez_dGmvE0oFYZXGA/viewform?embedded=true"
+                    width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </div>
+        </div>
+    </div>
+</div>
+        <footer class="d-flex justify-content-center backdrop-blur fixed-bottom">
+	&copy;2026 F.L.A.W.
+</footer>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
