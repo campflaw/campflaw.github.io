@@ -47,6 +47,7 @@ jobs:
         uses: rajyan/preview-pages@v1
         with:
           source-dir: ./_site
+          token: ${{ secrets.PREVIEW_PAGES_TOKEN2 }}
           target-repository: Finger-Lakes-Anthro-Weekend/campflaw-previews
           pr-per-commit: 'false'
           branch-per-commit: 'false'
