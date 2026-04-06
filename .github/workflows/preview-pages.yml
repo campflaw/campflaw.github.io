@@ -32,16 +32,16 @@ jobs:
             echo "path=/${REPO_NAME}/${BRANCH}" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-          bundler-cache: true
+      - name: Override baseurl in config
+        run: |
+          echo "" >> _config.yml
+          echo "baseurl: \"${{ steps.baseurl.outputs.path }}\"" >> _config.yml
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.baseurl.outputs.path }}"
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
 
       - name: Preview Pages
         uses: rajyan/preview-pages@v1
