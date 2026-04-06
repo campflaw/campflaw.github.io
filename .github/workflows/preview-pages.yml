@@ -21,13 +21,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Compute preview baseurl
+        id: baseurl
+        run: |
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "path=/${REPO_NAME}/pr-${{ github.event.pull_request.number }}" >> "$GITHUB_OUTPUT"
+          else
+            BRANCH="${GITHUB_REF#refs/heads/}"
+            echo "path=/${REPO_NAME}/${BRANCH}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: ./
-          destination: ./_site
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.baseurl.outputs.path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: Preview Pages
         uses: rajyan/preview-pages@v1
         with:
           source-dir: ./_site
+          pr-per-commit: 'false'
+          branch-per-commit: 'false'
