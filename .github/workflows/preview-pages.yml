@@ -24,12 +24,12 @@ jobs:
       - name: Compute preview baseurl
         id: baseurl
         run: |
-          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          TARGET_REPO="campflaw-previews"
           if [ "${{ github.event_name }}" = "pull_request" ]; then
-            echo "path=/${REPO_NAME}/pr-${{ github.event.pull_request.number }}" >> "$GITHUB_OUTPUT"
+            echo "path=/${TARGET_REPO}/pr-${{ github.event.pull_request.number }}" >> "$GITHUB_OUTPUT"
           else
             BRANCH="${GITHUB_REF#refs/heads/}"
-            echo "path=/${REPO_NAME}/${BRANCH}" >> "$GITHUB_OUTPUT"
+            echo "path=/${TARGET_REPO}/${BRANCH}" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Override baseurl in config
@@ -47,5 +47,6 @@ jobs:
         uses: rajyan/preview-pages@v1
         with:
           source-dir: ./_site
+          target-repository: Finger-Lakes-Anthro-Weekend/campflaw-previews
           pr-per-commit: 'false'
           branch-per-commit: 'false'
