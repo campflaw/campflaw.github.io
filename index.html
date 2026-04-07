@@ -1,10 +1,5 @@
 ---
 layout: landing
-cardText: >-
-    Our camp counselors are working hard to make F.L.A.W. 2026 the best it can be!<br>
-    Fill out our interest form, and we'll notify you when registration opens:<br>
-buttonLink: "https://forms.gle/1Ew9GwvramqRXB549"
-buttonText: "F.L.A.W. Interest Form"
 ---
 <picture>
     <source type="image/webp" srcset="assets/flaw-background.webp">
@@ -15,37 +10,34 @@ buttonText: "F.L.A.W. Interest Form"
 <div class="container text-center fullheight d-flex justify-content-center align-items-center">
     <div class="col">
         <div class="container">
-            <p class="mb-0 pb-0 big-text-shadow lead">
-                <span class="fst-italic">Camp Pounce</span> is now...
-            </p>
             <img src="assets/flaw-logo.svg" alt="the F.L.A.W. logo, a white sea serpent swimming in a lake"
                 class="w-md-25 w-sm-50">
             <h1 class="display-1 text-shadow text-light-emphasis fw-bold mt-0 pt-0">Finger Lakes Anthro Weekend</h1>
         </div>
-        <h2 class="fs-1 text-shadow pb-4 text-light-emphasis">May 28 - 31</h2>
-        <div class="card p-3 w-md-50 mx-auto shadow-lg rounded text-warning-emphasis mb-md-3 mb-2">
-            <p class="text-shadow pl-3 pr-3">{{ page.cardText }}</p>
-            <button type="modal" class="btn btn-success btn-lg mx-auto" data-bs-toggle="modal"
-                data-bs-target="#interestForm">{{ page.buttonText }}</button>
+        <h2 class="fs-1 text-shadow pb-2 text-light-emphasis">May 28 &ndash; 31, 2026 &bull; Camp Whitman, NY</h2>
+
+        <!-- Under Construction banner -->
+        <div class="card p-4 w-md-50 mx-auto shadow-lg rounded mb-3" style="background: rgba(255,255,255,0.95);">
+            <img src="/assets/flaw404.png" alt="F.L.A.W. sea serpent mascot" style="max-height: 180px; object-fit: contain;" class="mx-auto mb-3">
+            <h3 class="display-6 fw-bold" style="color: #234c41;">Site Under Construction!</h3>
+            <p class="fs-5" style="color: #555;">We're working hard to get everything ready. Check back soon for more info!</p>
+        </div>
+
+        <!-- Info card -->
+        <div class="card p-4 w-md-50 mx-auto shadow-lg rounded text-warning-emphasis mb-3">
+            <p class="text-shadow px-3 fs-5">
+                F.L.A.W. is an outdoor furry fandom weekend with exclusive access to Camp Whitman in Penn Yan, NY.
+                Participants stay in cabins, are fed 6 delicious meals, and can enjoy activities including canoeing in
+                Seneca Lake, swimming, fishing, games, campfires, crafting, and more. We hope to provide a fun weekend
+                to relax, enjoy nature, and make memories together!
+            </p>
+            <p class="text-shadow px-3 fs-5 mb-1">
+                We are a volunteer-run, non-profit organization officially founded in 2026. With every event we raise
+                money for charity and hope you can join us in raising funds to help good causes.
+            </p>
+            <p class="text-shadow fs-5 mb-3">Ages 14+ only (minors must attend with a parent or legal guardian)</p>
+            <a href="/attend/" class="btn btn-success btn-lg mx-auto">Register</a>
         </div>
         {% include social-links.html %}
-    </div>
-</div>
-
-<!-- Interest form modal -->
-<div class="modal modal-fullscreen modal-lg fade" id="interestForm" data-bs-backdrop="static" data-bs-keyboard="false"
-    tabindex="-1" aria-labelledby="interestFormLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel">{{page.buttonText}}</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <iframe
-                    src="https://docs.google.com/forms/d/e/1FAIpQLSfFPPqVldLRddi28afWYHB_9G1Mtxm4eMez_dGmvE0oFYZXGA/viewform?embedded=true"
-                    width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-            </div>
-        </div>
     </div>
 </div>
