@@ -130,7 +130,7 @@ Registration is only complete when:
 
 ## Capacity
 
-Attendance is capped at **120**.
+Attendance is capped at **100**.
 
 ## Waitlist Policy
 
