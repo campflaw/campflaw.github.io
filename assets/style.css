@@ -31,8 +31,9 @@
 }
 
 .fullheight {
-    height: 100vh;
-    padding-top: 56px;
+    min-height: 100vh;
+    padding-top: 70px;
+    box-sizing: border-box;
 }
 
 /* Icon hover effect */
