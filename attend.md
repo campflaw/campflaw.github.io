@@ -131,13 +131,3 @@ Registration is only complete when:
 ## Capacity
 
 Attendance is capped at **100**.
-
-## Waitlist Policy
-
-The waitlist is activated once capacity is reached and managed in timestamp order.
-
-If a spot becomes available:
-
-- Next person is contacted by email
-- **48 hours** to complete registration and payment
-- If no response, spot is offered to the next person
