@@ -1,0 +1,83 @@
+---
+embed-desc: >-
+    Finger Lakes Anthro Weekend is an annual furry weekend getaway to the summer camp of your childhood.
+    Located in Penn Yan, NY, F.L.A.W. is complete with cabins, a main lodge, and outdoor activities right on Seneca Lake.
+embed-img: https://campflaw.org/assets/embed-card.png
+---
+
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="/assets/style.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="F.L.A.W." />
+    <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+    <!-- Search Engine -->
+    <meta name="title" content="{{ page.title }} — {{ site.title }}">
+    <meta name="description" content="{{ layout.embed-desc }}" />
+    <meta name="theme-color" content="#234c41">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:title" content="{{ page.title }} — {{ site.title }}" />
+    <meta property="og:description" content="{{ layout.embed-desc }}" />
+    <meta property="og:image" content="{{ layout.embed-img }}" />
+
+    <!-- X (Twitter) -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="twitter:title" content="{{ page.title }} — {{ site.title }}" />
+    <meta property="twitter:description" content="{{ layout.embed-desc }}" />
+    <meta property="twitter:image" content="{{ layout.embed-img }}" />
+
+    <title>{{ page.title }} — {{ site.title }}</title>
+</head>
+
+<body>
+    {% include navbar.html %}
+
+    <!-- Hero banner -->
+    <div class="page-hero position-relative overflow-hidden">
+        {% if page.hero-image %}
+        <img class="page-hero-img" src="{{ page.hero-image }}" alt="{{ page.title }}">
+        {% else %}
+        <picture>
+            <source type="image/webp" srcset="/assets/flaw-background.webp">
+            <source type="image/jpeg" srcset="/assets/flaw-background.jpg">
+            <img class="page-hero-img" src="/assets/flaw-background.jpg" alt="{{ page.title }}">
+        </picture>
+        {% endif %}
+        <div class="page-hero-overlay d-flex align-items-end">
+            <div class="container pb-4">
+                <h1 class="display-4 fw-bold text-white text-shadow mb-0">{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+
+    <main class="page-content">
+        <div class="container py-4">
+            {{ content }}
+        </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
