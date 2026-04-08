@@ -7,6 +7,8 @@ hero-image: /assets/hero-lodging.jpeg
 
 ## Cabin Assignments
 
+<img src="/assets/location_fur_1.png" alt="F.L.A.W. raccoon mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
+
 Every camper is assigned a bed in one of our many primitive 4-person cabins. Our registration process includes a Cabin Preference Form to match you to a cabin and stay with your group.
 
 We'll do our best to accommodate requests, but assignments are ultimately at staff discretion based on availability.
@@ -25,7 +27,7 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Cedar walls, bunk beds, and a roof over your head.</p>
-        <p><strong>Bring:</strong> Bedding, pillow, towels, and toiletries.</p>
+        <p><strong>Bring:</strong> Bedding or sleeping bag, pillow, towels, and toiletries.</p>
     </div>
 </div>
 
@@ -34,7 +36,7 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
         <img src="/assets/cab.jpeg" alt="Camper cabins by the lake" class="img-fluid rounded shadow">
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        <p>Rows of cozy cabins right by the lake. Your home base for the weekend.</p>
+        <p>Cabin groups by the lake or in the woods.</p>
     </div>
 </div>
 
@@ -66,6 +68,15 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 <div class="row align-items-center my-4 flex-md-row-reverse">
     <div class="col-md-6">
+        <img src="/assets/log7.jpeg" alt="Spacious cabin interior with beds and ceiling fan" class="img-fluid rounded shadow">
+    </div>
+    <div class="col-md-6 mt-3 mt-md-0">
+        <p>Spacious wood-paneled rooms with full-size beds, ceiling fans, and climate control.</p>
+    </div>
+</div>
+
+<div class="row align-items-center my-4">
+    <div class="col-md-6">
         <img src="/assets/log4.jpeg" alt="Cabin bathroom with shower" class="img-fluid rounded shadow">
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -75,13 +86,13 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 ### Tent Camping
 
-For Survivalist registrants who want to rough it.
+Campers may pitch a tent if they so wish. Your cabin bunk is still reserved.
 
 - Designated camping areas only
 - Bring all your own equipment
 - Access to shared bathhouse facilities
 
-### RV Camping
+### RV Camping <span class="badge bg-secondary">$50</span>
 
 - Limited RV spots available
 - Contact us in advance to arrange
@@ -91,8 +102,21 @@ For Survivalist registrants who want to rough it.
 
 ## What to Bring
 
-- Bedding and pillow (cabins have bare mattresses)
-- Towels and toiletries
+**Essentials:**
+
+- Bedding or sleeping bag and pillow (cabins have bare mattresses — it gets cold at night)
+- Water bottle
+- Toiletries, medications, and soap
+- Clothes and shoes that can get dirty or muddy
+- Towel
+- Bug spray
+- Phone charger
+
+**Optional but recommended:**
+
+- Snacks, drinks, and lunch (fridge space and ice available)
 - Flashlight or headlamp
-- Weather-appropriate clothing
-- Anything else to make your stay comfortable
+- Swimsuit for canoeing
+- Folding chair for campfire sitting
+- Games, board games, or outdoor toys
+- Sketchbook

@@ -4,6 +4,13 @@ title: Guidelines
 permalink: /guidelines/
 ---
 
+<div class="alert alert-success text-center my-4">
+    <h4 class="fw-bold mb-2" style="color: #234c41;">Cabin Accommodation Questionnaire</h4>
+    <p class="mb-3">This form is to determine what cabin you will be sorted into. We will try to match people the best as possible, though due to limited cabin space we unfortunately cannot guarantee anything.</p>
+    <p class="mb-3">Once you have registered at <a href="/attend/" style="color: #234c41 !important; text-decoration: underline; font-weight: bold;">campflaw.org</a>, you can fill out this form. Please do not fill out this form before you have completed registration.</p>
+    <a href="https://docs.google.com/forms/d/1E_YAcHYXaUSELOUM7Lkhw9npPpNpxaTK0A11B3Qijf8/edit?chromeless=1" class="btn btn-success btn-lg" style="color: #fff !important;" target="_blank">Fill Out Questionnaire</a>
+</div>
+
 ## Downloads
 
 <div class="list-group my-3">

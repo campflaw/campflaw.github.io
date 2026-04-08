@@ -150,15 +150,21 @@ body {
     color: var(--flaw-green);
 }
 
+.page-content a.btn {
+    color: #fff !important;
+}
+
 /* Override Bootstrap success button to match our green */
 .btn-success {
     background-color: var(--flaw-green) !important;
     border-color: var(--flaw-green) !important;
+    color: #fff !important;
 }
 
 .btn-success:hover {
     background-color: var(--flaw-green-light) !important;
     border-color: var(--flaw-green-light) !important;
+    color: #fff !important;
 }
 
 /* Responsive width utilities */
