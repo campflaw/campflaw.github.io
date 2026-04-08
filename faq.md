@@ -17,7 +17,7 @@ No pets are allowed. Service animals only.
 Bedding, clothing, toiletries, and a flashlight.
 
 **Is there cell service?**
-Cell service is limited at the camp.
+Cell service is limited at the camp, but there is free fast wifi available.
 
 **Can minors attend alone?**
-No. Attendees ages 14--17 must be accompanied by a parent or legal guardian at all times.
+Campers age 15-17 can attend with permission from a parent or guardian. Campers 0-14 must attend with a parent or guardian present.
