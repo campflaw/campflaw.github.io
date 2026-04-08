@@ -21,13 +21,6 @@ permalink: /guidelines/
             <p class="mb-0 text-muted small">Refund timelines, transfers, and cancellation terms</p>
         </div>
     </a>
-    <a href="/assets/documents/2026%20participant%20code%20of%20conduct.pdf" class="list-group-item list-group-item-action d-flex align-items-center" download>
-        <i class="bi bi-file-earmark-arrow-down me-3 fs-4" style="color: #234c41;"></i>
-        <div>
-            <strong>2026 Participant Code of Conduct</strong>
-            <p class="mb-0 text-muted small">Expected behavior and event rules</p>
-        </div>
-    </a>
     <a href="/assets/documents/2026%20Optional%20Minor%20Participation%20Form.pdf" class="list-group-item list-group-item-action d-flex align-items-center" download>
         <i class="bi bi-file-earmark-arrow-down me-3 fs-4" style="color: #234c41;"></i>
         <div>
