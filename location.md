@@ -7,7 +7,7 @@ hero-image: /assets/loc1.jpeg
 
 ## Camp Whitman on Seneca Lake
 
-**150 Whitman Rd, Penn Yan, NY**
+**150 Whitman Rd, Penn Yan, NY 14527**
 
 <img src="/assets/programming_fur_1.png" alt="F.L.A.W. mascot canoeing" class="float-end ms-3 mb-3" style="max-height: 220px;">
 
