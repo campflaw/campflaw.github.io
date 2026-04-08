@@ -16,8 +16,6 @@ Panels, games, outdoor activities, and evening events. Participation is voluntar
 
 <img src="/assets/prog2.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
 
-<img src="/assets/prog3.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
-
 <img src="/assets/prog4.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
 
 <img src="/assets/prog5.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
