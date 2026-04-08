@@ -7,7 +7,7 @@ hero-image: /assets/loc1.jpeg
 
 ## Camp Whitman on Seneca Lake
 
-**150 Whitman Rd, Penn Yan, NY**
+**150 Whitman Rd, Penn Yan, NY 14527**
 
 <img src="/assets/programming_fur_1.png" alt="F.L.A.W. mascot canoeing" class="float-end ms-3 mb-3" style="max-height: 220px;">
 
@@ -27,7 +27,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <h3 style="color: #234c41;">Right on the Water</h3>
-        <p>The camp sits directly on Seneca Lake, one of the deepest of the Finger Lakes. Walk down to the dock for canoeing or fishing.</p>
+        <p>The camp sits directly on Seneca Lake, one of the deepest of the Finger Lakes. Walk down to the dock for canoeing or fishing. Keep an eye out for <a href="https://www.lifeinthefingerlakes.com/monster-or-myth/" target="_blank">Finnigan</a>, our legendary sea serpent mascot!</p>
     </div>
 </div>
 
