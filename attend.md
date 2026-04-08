@@ -5,15 +5,15 @@ permalink: /attend/
 hero-image: /assets/hero-attend.png
 ---
 
+<div class="alert alert-info">
+<strong>Welcome to the great outdoors, furry style! Whether you're new to the woods or a seasoned camper, F.L.A.W. offers a fun, safe, and unforgettable weekend surrounded by nature and great company. Come make memories under the stars!</strong>
+</div>
+
 ## Registration
 
+<img src="/assets/regdog.png" alt="F.L.A.W. Registration Mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
+
 All registrations are processed through [ConCat](https://www.concat.app/) and paid via Stripe.
-
-Registration is only complete when:
-
-- Payment is received
-- Code of Conduct is accepted
-- Liability waiver is signed
 
 <div id="reg-button" class="my-3">
     <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg d-none" id="reg-open">Register on ConCat</a>
@@ -64,8 +64,8 @@ Registration is only complete when:
     <div class="col">
         <div class="card h-100 shadow-sm">
             <div class="card-body">
-                <h4 class="card-title fw-bold" style="color: #234c41;">Camper</h4>
-                <p class="text-muted">The standard weekend experience.</p>
+                <h4 class="card-title fw-bold" style="color: #234c41;">Camper <span class="badge bg-secondary">$175</span></h4>
+                <p class="text-muted">The original experience!</p>
                 <ul>
                     <li>Full weekend admission</li>
                     <li>Cabin bunk assignment</li>
@@ -78,12 +78,13 @@ Registration is only complete when:
     <div class="col">
         <div class="card h-100 shadow-sm">
             <div class="card-body">
-                <h4 class="card-title fw-bold" style="color: #234c41;">Survivalist</h4>
-                <p class="text-muted">For those who want to rough it.</p>
+                <h4 class="card-title fw-bold" style="color: #234c41;">Survivalist <span class="badge bg-secondary">$250</span></h4>
+                <p class="text-muted">Go above and beyond to support F.L.A.W.</p>
                 <ul>
                     <li>Everything in Camper</li>
-                    <li>Tent camping in designated areas</li>
-                    <li>Bring your own camping equipment</li>
+                    <li>Included t-shirt</li>
+                    <li>Special token of our appreciation</li>
+                    <li>Support the event and future growth</li>
                 </ul>
             </div>
         </div>
@@ -91,13 +92,14 @@ Registration is only complete when:
     <div class="col">
         <div class="card h-100 shadow-sm">
             <div class="card-body">
-                <h4 class="card-title fw-bold" style="color: #234c41;">Trailblazer</h4>
-                <p class="text-muted">Go above and beyond to support F.L.A.W.</p>
+                <h4 class="card-title fw-bold" style="color: #234c41;">Trailblazer <span class="badge bg-secondary">$325</span></h4>
+                <p class="text-muted">The elevated glamping experience.</p>
                 <ul>
-                    <li>Everything in Survivalist</li>
-                    <li>Exclusive Trailblazer badge</li>
-                    <li>Early cabin selection</li>
-                    <li>Support the event and future growth</li>
+                    <li>All items from previous tiers</li>
+                    <li>Placement in exclusive premium cabin with full furnishing, bedding, water, and electricity</li>
+                    <li>F.L.A.W. flask and mug</li>
+                    <li>2 special gifts disclosed onsite</li>
+                    <li>Custom badge of your sona drawn by our art department</li>
                 </ul>
             </div>
         </div>
@@ -108,16 +110,16 @@ Registration is only complete when:
     <div class="col">
         <div class="card h-100 shadow-sm border-secondary">
             <div class="card-body">
-                <h5 class="card-title fw-bold">Day Badge</h5>
-                <p class="text-muted mb-0">Single-day admission. Access to activities and programming for the day. Meals not included.</p>
+                <h5 class="card-title fw-bold">Day Badge <span class="badge bg-secondary">At-Con Only</span></h5>
+                <p class="text-muted mb-0">Purchased on-site only. Single-day admission with access to activities and programming. Meals not included.</p>
             </div>
         </div>
     </div>
     <div class="col">
         <div class="card h-100 shadow-sm border-secondary">
             <div class="card-body">
-                <h5 class="card-title fw-bold">Minor Badge</h5>
-                <p class="text-muted mb-1">For attendees under 18.</p>
+                <h5 class="card-title fw-bold">Minor Badge <span class="badge bg-secondary">$175</span></h5>
+                <p class="text-muted mb-1">For attendees under 18. Same inclusions as Camper.</p>
                 <ul class="small mb-0">
                     <li>Ages 0&ndash;14 must be accompanied by a parent or legal guardian at all times</li>
                     <li>Ages 15&ndash;17 can attend with notarized permission from a parent or legal guardian</li>
