@@ -16,7 +16,7 @@ Registration is only complete when:
 - Liability waiver is signed
 
 <div id="reg-button" class="my-3">
-    <a href="#" class="btn btn-success btn-lg d-none" id="reg-open">Register on ConCat</a>
+    <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg d-none" id="reg-open">Register on ConCat</a>
     <button class="btn btn-secondary btn-lg" id="reg-countdown" disabled>
         Registration opens <span id="countdown-text"></span>
     </button>
