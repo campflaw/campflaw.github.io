@@ -13,3 +13,7 @@ Have questions? Reach out to us!
 You can also find us on social media:
 
 {% include social-links.html %}
+
+<div class="text-center my-4">
+    <img src="/assets/fuzzies.jpg" alt="Fuzzies at F.L.A.W." class="img-fluid rounded shadow">
+</div>

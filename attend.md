@@ -16,7 +16,7 @@ hero-image: /assets/hero-attend.png
 All registrations are processed through [ConCat](https://www.concat.app/) and paid via Stripe.
 
 <div id="reg-button" class="my-3">
-    <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg d-none" id="reg-open">Register on ConCat</a>
+    <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg d-none" id="reg-open" style="color: #fff !important;">Register on ConCat</a>
     <button class="btn btn-secondary btn-lg" id="reg-countdown" disabled>
         Registration opens <span id="countdown-text"></span>
     </button>
@@ -132,4 +132,4 @@ All registrations are processed through [ConCat](https://www.concat.app/) and pa
 
 ## Capacity
 
-Attendance is capped at **100**.
+Attendance is capped at **120 (100 campers and 20 staff)**.

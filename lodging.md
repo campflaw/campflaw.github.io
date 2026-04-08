@@ -116,7 +116,7 @@ Campers may pitch a tent if they so wish. Your cabin bunk is still reserved.
 
 - Snacks, drinks, and lunch (fridge space and ice available)
 - Flashlight or headlamp
-- Swimsuit for canoeing
+- Clothes you don't mind getting wet (for canoeing)
 - Folding chair for campfire sitting
 - Games, board games, or outdoor toys
 - Sketchbook

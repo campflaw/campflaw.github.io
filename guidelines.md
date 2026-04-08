@@ -51,16 +51,6 @@ permalink: /guidelines/
     </a>
 </div>
 
----
-
-## Event Rules
-
-- Respect others
-- Follow staff instructions
-- Consent is required
-- No harassment
-- Minors must be supervised at all times
-- No illegal substances
-- Service animals only
-
-**Violations may result in removal without refund.**
+<div class="text-center my-4">
+    <img src="/assets/suiters.jpg" alt="Fursuiters at F.L.A.W." class="img-fluid rounded shadow">
+</div>
