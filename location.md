@@ -89,6 +89,7 @@ Driving is the primary way to get to Camp Whitman. It's an easy drive from most 
 
 **Nearest airports:**
 
+- **ELM** (Elmira Corning), ~45 minutes drive
 - **ITH** (Ithaca Tompkins), ~1 hour drive
 - **ROC** (Rochester), ~1.5 hours drive
 - **SYR** (Syracuse), ~1.5 hours drive
@@ -101,4 +102,3 @@ Join our [Telegram chat](https://t.me/fingerlakesanthroweekend) to ask questions
 
 - Park in designated areas only
 - Follow staff directions on arrival
-- No parking near cabins except for loading and unloading

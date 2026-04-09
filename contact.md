@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Contact
+title: About & Contact
 permalink: /contact/
 ---
+
+## Our Story
+
+F.L.A.W. started in 2023 when a group of friends decided to spend a weekend outdoors in the Finger Lakes. What began as a single campout has grown into a full-blown annual event at Camp Whitman on Seneca Lake, bringing together furs from across the region for a weekend of campfires, lake activities, and good company.
+
+Every year the pack gets bigger, and we couldn't be more excited about where this is heading.
+
+---
+
+## Get in Touch
 
 Have questions? Reach out to us!
 

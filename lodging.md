@@ -5,6 +5,17 @@ permalink: /lodging/
 hero-image: /assets/hero-lodging.jpeg
 ---
 
+<div class="alert alert-success d-flex align-items-center" role="alert">
+    <i class="bi bi-backpack2 me-3 fs-3"></i>
+    <div>
+        <strong>Not sure what to bring?</strong> Our packing list has you covered!
+        <br>
+        <a href="/assets/documents/packing-list.pdf" class="btn btn-success btn-sm mt-2" download>
+            <i class="bi bi-download me-1"></i>Download Packing List (PDF)
+        </a>
+    </div>
+</div>
+
 ## Cabin Assignments
 
 <img src="/assets/location_fur_1.png" alt="F.L.A.W. raccoon mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
@@ -97,26 +108,3 @@ Campers may pitch a tent if they so wish. Your cabin bunk is still reserved.
 - Limited RV spots available
 - Contact us in advance to arrange
 - No hookups provided
-
----
-
-## What to Bring
-
-**Essentials:**
-
-- Bedding or sleeping bag and pillow (cabins have bare mattresses — it gets cold at night)
-- Water bottle
-- Toiletries, medications, and soap
-- Clothes and shoes that can get dirty or muddy
-- Towel
-- Bug spray
-- Phone charger
-
-**Optional but recommended:**
-
-- Snacks, drinks, and lunch (fridge space and ice available)
-- Flashlight or headlamp
-- Clothes you don't mind getting wet (for canoeing)
-- Folding chair for campfire sitting
-- Games, board games, or outdoor toys
-- Sketchbook

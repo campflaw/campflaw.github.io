@@ -35,11 +35,13 @@ nav:
     url: /lodging/
   - title: Programming
     url: /programming/
+  - title: Art
+    url: /art/
   - title: Guidelines
     url: /guidelines/
   - title: FAQ
     url: /faq/
-  - title: Contact
+  - title: About & Contact
     url: /contact/
 
 socials:
