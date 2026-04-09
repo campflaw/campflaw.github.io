@@ -12,59 +12,6 @@ Every year the pack gets bigger, and we couldn't be more excited about where thi
 
 ---
 
-## Meet the Staff
-
-<div class="row text-center my-4 g-4">
-    <div class="col-6 col-md-3">
-        <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-                <div class="rounded-circle bg-secondary mx-auto mb-3 d-flex align-items-center justify-content-center" style="width: 100px; height: 100px;">
-                    <i class="bi bi-person-fill text-white" style="font-size: 2.5rem;"></i>
-                </div>
-                <h6 class="mb-1">Staff Name</h6>
-                <small class="text-muted">Role</small>
-            </div>
-        </div>
-    </div>
-    <div class="col-6 col-md-3">
-        <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-                <div class="rounded-circle bg-secondary mx-auto mb-3 d-flex align-items-center justify-content-center" style="width: 100px; height: 100px;">
-                    <i class="bi bi-person-fill text-white" style="font-size: 2.5rem;"></i>
-                </div>
-                <h6 class="mb-1">Staff Name</h6>
-                <small class="text-muted">Role</small>
-            </div>
-        </div>
-    </div>
-    <div class="col-6 col-md-3">
-        <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-                <div class="rounded-circle bg-secondary mx-auto mb-3 d-flex align-items-center justify-content-center" style="width: 100px; height: 100px;">
-                    <i class="bi bi-person-fill text-white" style="font-size: 2.5rem;"></i>
-                </div>
-                <h6 class="mb-1">Staff Name</h6>
-                <small class="text-muted">Role</small>
-            </div>
-        </div>
-    </div>
-    <div class="col-6 col-md-3">
-        <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-                <div class="rounded-circle bg-secondary mx-auto mb-3 d-flex align-items-center justify-content-center" style="width: 100px; height: 100px;">
-                    <i class="bi bi-person-fill text-white" style="font-size: 2.5rem;"></i>
-                </div>
-                <h6 class="mb-1">Staff Name</h6>
-                <small class="text-muted">Role</small>
-            </div>
-        </div>
-    </div>
-</div>
-
-<p class="text-muted text-center"><em>Staff photos and bios coming soon!</em></p>
-
----
-
 ## Get in Touch
 
 Have questions? Reach out to us!
