@@ -6,8 +6,6 @@ permalink: /contact/
 
 ## Our Story
 
-<img src="/assets/programming_fur_1.png" alt="F.L.A.W. mascot" class="float-end ms-3 mb-3" style="max-height: 180px;">
-
 F.L.A.W. started in 2023 when a group of friends decided to spend a weekend outdoors in the Finger Lakes. What began as a single campout has grown into a full-blown annual event at Camp Whitman on Seneca Lake, bringing together furs from across the region for a weekend of campfires, lake activities, and good company.
 
 Every year the pack gets bigger, and we couldn't be more excited about where this is heading.
