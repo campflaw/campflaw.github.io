@@ -49,6 +49,13 @@ permalink: /guidelines/
             <p class="mb-0 text-muted small">Assumption of risk and release of liability</p>
         </div>
     </a>
+    <a href="/assets/documents/FLAW-CoC.pdf" class="list-group-item list-group-item-action d-flex align-items-center" download>
+        <i class="bi bi-file-earmark-arrow-down me-3 fs-4" style="color: #234c41;"></i>
+        <div>
+            <strong>Code of Conduct</strong>
+            <p class="mb-0 text-muted small">Expected behavior and community standards for all attendees</p>
+        </div>
+    </a>
 </div>
 
 <div class="text-center my-4">
