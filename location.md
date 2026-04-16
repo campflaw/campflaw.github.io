@@ -77,7 +77,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <h3 style="color: #234c41;">The Main Lodge</h3>
-        <p>A big open space with exposed wood beams, a full kitchen, and windows looking out onto the lake. This is where meals, panels, and evening events happen.</p>
+        <p>A big open space with a classic summercamp feel, a full kitchen, and windows looking out onto the lake. This is where meals, panels, and evening events happen.</p>
     </div>
 </div>
 
