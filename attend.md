@@ -132,4 +132,4 @@ All registrations are processed through [ConCat](https://www.concat.app/) and pa
 
 ## Capacity
 
-Attendance is capped at **120 (100 campers and 20 staff)**.
+Attendance is capped at **100**.
