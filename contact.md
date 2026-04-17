@@ -16,8 +16,8 @@ Every year the pack gets bigger, and we couldn't be more excited about where thi
 
 Have questions? Reach out to us!
 
-<a href="mailto:campflaw@gmail.com" class="btn btn-success btn-lg my-3 text-white">
-    <i class="bi bi-envelope me-2"></i>campflaw@gmail.com
+<a href="mailto:contact@campflaw.org" class="btn btn-success btn-lg my-3 text-white">
+    <i class="bi bi-envelope me-2"></i>contact@campflaw.org
 </a>
 
 You can also find us on social media:
