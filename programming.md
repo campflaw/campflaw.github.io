@@ -15,16 +15,16 @@ Panels, games, outdoor activities, and evening events. Participation is voluntar
 <div id="programmingCarousel" class="carousel slide">
 <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="/assets/prog1.jpeg" alt="Programming activities" class="d-block w-100">
+    <img src="/assets/prog1.jpeg" alt="A cabin in the woods, with wooden stairs leading to it." class="d-block w-100">
     </div>
     <div class="carousel-item">
-    <img src="/assets/prog2.jpeg" alt="Programming activities" class="d-block w-100">
+    <img src="/assets/prog2.jpeg" alt="Two people kayaking in a lake. Both are smiling." class="d-block w-100">
     </div>
     <div class="carousel-item">
-    <img src="/assets/prog4.jpeg" alt="Programming activities" class="d-block w-100">
+    <img src="/assets/prog4.jpeg" alt="A furry drawing panel, where several people both in and out of suit are coloring with markers." class="d-block w-100">
     </div>
     <div class="carousel-item">
-    <img src="/assets/prog5.jpeg" alt="Programming activities" class="d-block w-100">
+    <img src="/assets/prog5.jpeg" alt="Several trays of food including a pasta dish, garlic bread, and broccoli." class="d-block w-100">
     </div>
 </div>
 <button class="carousel-control-prev" type="button" data-bs-target="#programmingCarousel" data-bs-slide="prev">
