@@ -12,11 +12,27 @@ permalink: /programming/
 </div>
 
 Panels, games, outdoor activities, and evening events. Participation is voluntary.
-
-<img src="/assets/prog1.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
-
-<img src="/assets/prog2.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
-
-<img src="/assets/prog4.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
-
-<img src="/assets/prog5.jpeg" alt="Programming activities" class="img-fluid rounded shadow my-4 w-100">
+<div id="programmingCarousel" class="carousel slide">
+<div class="carousel-inner">
+    <div class="carousel-item active">
+    <img src="/assets/prog1.jpeg" alt="Programming activities" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+    <img src="/assets/prog2.jpeg" alt="Programming activities" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+    <img src="/assets/prog4.jpeg" alt="Programming activities" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+    <img src="/assets/prog5.jpeg" alt="Programming activities" class="d-block w-100">
+    </div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#programmingCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#programmingCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+</button>
+</div>
