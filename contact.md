@@ -25,5 +25,8 @@ You can also find us on social media:
 {% include social-links.html %}
 
 <div class="text-center my-4">
+    <picture>
+    <source type="image/webp" srcset="/assets/fuzzies.webp">
     <img src="/assets/fuzzies.jpg" alt="Fuzzies at F.L.A.W." class="img-fluid rounded shadow">
+    </picture>
 </div>
