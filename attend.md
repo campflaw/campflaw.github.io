@@ -118,10 +118,10 @@ All registrations are processed through [ConCat](https://www.concat.app/) and pa
     <div class="col">
         <div class="card h-100 shadow-sm border-secondary">
             <div class="card-body">
-                <h5 class="card-title fw-bold">Minor Badge <span class="badge bg-secondary">$175</span></h5>
-                <p class="text-muted mb-1">For attendees under 18. Same inclusions as Camper.</p>
+                <h5 class="card-title fw-bold">Minor Policy <span class="badge bg-warning"><i class="bi bi-exclamation-triangle-fill px-2"></i></span></h5>
+                <p class="text-muted mb-1">Finger Lakes Anthro Weekend is an all-ages event! For attendees under the age of 18, a few restrictions apply:</p>
                 <ul class="small mb-0">
-                    <li>Ages 0&ndash;14 must be accompanied by a parent or legal guardian at all times</li>
+                    <li>Ages 0&ndash;14 must be accompanied by a parent or legal guardian at all times. The parent/legal guardian must register for the event under <strong>their own account,</strong> using their information not the child's.</li>
                     <li>Ages 15&ndash;17 can attend with notarized permission from a parent or legal guardian</li>
                     <li>Guardians assume full responsibility for minors</li>
                 </ul>
