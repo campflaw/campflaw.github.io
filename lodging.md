@@ -18,7 +18,10 @@ hero-image: /assets/hero-lodging.jpeg
 
 ## Cabin Assignments
 
+<picture>
+<source type="image/webp" srcset="/assets/location_fur_1.webp">
 <img src="/assets/location_fur_1.png" alt="F.L.A.W. raccoon mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
+</picture>
 
 Every camper is assigned a bed in one of our many primitive 4-person cabins. Our registration process includes a Cabin Preference Form to match you to a cabin and stay with your group.
 
@@ -34,7 +37,10 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
 
 <div class="row align-items-center my-4">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/log6.webp">
         <img src="/assets/log6.jpeg" alt="Cabin bunk beds" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Cedar walls, bunk beds, and a roof over your head.</p>
@@ -44,7 +50,10 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
 
 <div class="row align-items-center my-4 flex-md-row-reverse">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/cab.webp">
         <img src="/assets/cab.jpeg" alt="Camper cabins by the lake" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Cabin groups by the lake or in the woods.</p>
@@ -61,7 +70,10 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 <div class="row align-items-center my-4 flex-md-row-reverse">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/hawk.webp">
         <img src="/assets/hawk.jpeg" alt="Trailblazer cabin room with full bed" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Private rooms with full-size beds and bunk beds. Electricity, lighting, and climate control included.</p>
@@ -70,7 +82,10 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 <div class="row align-items-center my-4">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/log3.webp">
         <img src="/assets/log3.jpeg" alt="Screened-in cabin porch with seating" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Every Trailblazer cabin has a screened-in porch with seating. Nice spot to hang out between activities.</p>
@@ -79,7 +94,10 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 <div class="row align-items-center my-4 flex-md-row-reverse">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/log7.webp">
         <img src="/assets/log7.jpeg" alt="Spacious cabin interior with beds and ceiling fan" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Spacious wood-paneled rooms with full-size beds, ceiling fans, and climate control.</p>
@@ -88,7 +106,10 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
 
 <div class="row align-items-center my-4">
     <div class="col-md-6">
+        <picture>
+        <source type="image/webp" srcset="/assets/log4.webp">
         <img src="/assets/log4.jpeg" alt="Cabin bathroom with shower" class="img-fluid rounded shadow">
+        </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         <p>Trailblazer cabins include a private bathroom with toilet, sink, and shower.</p>

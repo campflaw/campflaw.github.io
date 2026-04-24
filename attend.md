@@ -11,7 +11,10 @@ hero-image: /assets/hero-attend.png
 
 ## Registration
 
+<picture>
+<source type="image/webp" srcset="/assets/regdog.webp">
 <img src="/assets/regdog.png" alt="F.L.A.W. Registration Mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
+</picture>
 
 All registrations are processed through [ConCat](https://www.concat.app/) and paid via Stripe.
 
