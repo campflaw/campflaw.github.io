@@ -5,7 +5,7 @@ permalink: /programming/
 ---
 
 <div class="card p-4 mx-auto shadow-lg rounded my-4" style="background: rgba(255,255,255,0.95);">
-    <h3 class="fw-bold" style="color: #234c41;">Looking to host a panel or activity at Camp Flaw?</h3>
+    <h3 class="fw-bold" style="color: #234c41;">Looking to host a panel or activity at F.L.A.W.?</h3>
     <p class="fs-5">We'd love to hear from you!</p>
     <p class="fs-5">Please complete the form below to submit your proposal.</p>
     <a href="https://forms.gle/ZmtEEYNd5Udk18JT6" class="btn btn-success btn-lg align-self-start" target="_blank" rel="noopener">Submit Your Proposal</a>
