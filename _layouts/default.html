@@ -52,7 +52,10 @@ embed-img: https://campflaw.org/assets/embed-card.png
     <!-- Hero banner -->
     <div class="page-hero position-relative overflow-hidden">
         {% if page.hero-image %}
-        <img class="page-hero-img" src="{{ page.hero-image }}" alt="{{ page.title }}">
+        <picture>
+            <source type="image/webp" srcset="{{ page.hero-image.webp }}">
+            <img class="page-hero-img" src="{{ page.hero-image.fallback }}" alt="{{ page.title }}">
+        </picture>
         {% else %}
         <picture>
             <source type="image/webp" srcset="/assets/flaw-background.webp">

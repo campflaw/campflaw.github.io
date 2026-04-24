@@ -2,7 +2,9 @@
 layout: default
 title: Location
 permalink: /location/
-hero-image: /assets/loc1.jpeg
+hero-image: 
+  webp: /assets/loc1.webp
+  fallback: /assets/loc1.jpeg
 ---
 
 ## Camp Whitman on Seneca Lake

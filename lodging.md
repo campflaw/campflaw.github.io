@@ -2,7 +2,9 @@
 layout: default
 title: Lodging
 permalink: /lodging/
-hero-image: /assets/hero-lodging.jpeg
+hero-image: 
+  webp: /assets/hero-lodging.webp
+  fallback: /assets/hero-lodging.jpeg
 ---
 
 <div class="alert alert-success d-flex align-items-center" role="alert">

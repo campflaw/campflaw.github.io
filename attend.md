@@ -2,7 +2,9 @@
 layout: default
 title: Attend
 permalink: /attend/
-hero-image: /assets/hero-attend.png
+hero-image: 
+  webp: /assets/hero-attend.webp
+  fallback: /assets/hero-attend.png
 ---
 
 <div class="alert alert-info">
