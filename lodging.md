@@ -41,7 +41,7 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/log6.webp">
-        <img src="/assets/log6.jpeg" alt="Cabin bunk beds" class="img-fluid rounded shadow">
+        <img src="/assets/log6.jpeg" alt="Cabin bunk beds" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -54,7 +54,7 @@ Primitive 4-person cabins with single mattresses and storage. **No electricity a
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/cab.webp">
-        <img src="/assets/cab.jpeg" alt="Camper cabins by the lake" class="img-fluid rounded shadow">
+        <img src="/assets/cab.jpeg" alt="Camper cabins by the lake" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -74,7 +74,7 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/hawk.webp">
-        <img src="/assets/hawk.jpeg" alt="Trailblazer cabin room with full bed" class="img-fluid rounded shadow">
+        <img src="/assets/hawk.jpeg" alt="Trailblazer cabin room with full bed" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -86,7 +86,7 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/log3.webp">
-        <img src="/assets/log3.jpeg" alt="Screened-in cabin porch with seating" class="img-fluid rounded shadow">
+        <img src="/assets/log3.jpeg" alt="Screened-in cabin porch with seating" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -98,7 +98,7 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/log7.webp">
-        <img src="/assets/log7.jpeg" alt="Spacious cabin interior with beds and ceiling fan" class="img-fluid rounded shadow">
+        <img src="/assets/log7.jpeg" alt="Spacious cabin interior with beds and ceiling fan" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -110,7 +110,7 @@ Trailblazer registrants get early cabin selection and upgraded accommodations. E
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/log4.webp">
-        <img src="/assets/log4.jpeg" alt="Cabin bathroom with shower" class="img-fluid rounded shadow">
+        <img src="/assets/log4.jpeg" alt="Cabin bathroom with shower" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">

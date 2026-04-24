@@ -54,13 +54,13 @@ embed-img: https://campflaw.org/assets/embed-card.png
         {% if page.hero-image %}
         <picture>
             <source type="image/webp" srcset="{{ page.hero-image.webp }}">
-            <img class="page-hero-img" src="{{ page.hero-image.fallback }}" alt="{{ page.title }}">
+            <img class="page-hero-img loaded-fade-in" onload="this.style.opacity=1" src="{{ page.hero-image.fallback }}" alt="{{ page.title }}">
         </picture>
         {% else %}
         <picture>
             <source type="image/webp" srcset="/assets/flaw-background.webp">
             <source type="image/jpeg" srcset="/assets/flaw-background.jpg">
-            <img class="page-hero-img" src="/assets/flaw-background.jpg" alt="{{ page.title }}">
+            <img class="page-hero-img loaded-fade-in" onload="this.style.opacity=1" src="/assets/flaw-background.jpg" alt="{{ page.title }}">
         </picture>
         {% endif %}
         <div class="page-hero-overlay d-flex align-items-end">

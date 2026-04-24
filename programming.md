@@ -17,25 +17,25 @@ Panels, games, outdoor activities, and evening events. Participation is voluntar
     <div class="carousel-item active">
     <picture>
     <source type="image/webp" srcset="/assets/prog1.webp">
-    <img src="/assets/prog1.jpeg" alt="A cabin in the woods, with wooden stairs leading to it." class="d-block w-100">
+    <img src="/assets/prog1.jpeg" alt="A cabin in the woods, with wooden stairs leading to it." class="d-block w-100 loaded-fade-in" onload="this.style.opacity=1">
     </picture>
     </div>
     <div class="carousel-item">
     <picture>
     <source type="image/webp" srcset="/assets/prog2.webp">
-    <img src="/assets/prog2.jpeg" alt="Two people kayaking in a lake. Both are smiling." class="d-block w-100">
+    <img src="/assets/prog2.jpeg" alt="Two people kayaking in a lake. Both are smiling." class="d-block w-100 loaded-fade-in" onload="this.style.opacity=1">
     </picture>
     </div>
     <div class="carousel-item">
     <picture>
     <source type="image/webp" srcset="/assets/prog4.webp">
-    <img src="/assets/prog4.jpeg" alt="A furry drawing panel, where several people both in and out of suit are coloring with markers." class="d-block w-100">
+    <img src="/assets/prog4.jpeg" alt="A furry drawing panel, where several people both in and out of suit are coloring with markers." class="d-block w-100 loaded-fade-in" onload="this.style.opacity=1">
     </picture>
     </div>
     <div class="carousel-item">
     <picture>
     <source type="image/webp" srcset="/assets/prog5.webp">
-    <img src="/assets/prog5.jpeg" alt="Several trays of food including a pasta dish, garlic bread, and broccoli." class="d-block w-100">
+    <img src="/assets/prog5.jpeg" alt="Several trays of food including a pasta dish, garlic bread, and broccoli." class="d-block w-100 loaded-fade-in" onload="this.style.opacity=1">
     </picture>
     </div>
 </div>

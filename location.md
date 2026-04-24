@@ -25,7 +25,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <p class="mb-3">Fire pit hangouts, s'mores, stories, and good company.</p>
     <picture>
     <source type="image/webp" srcset="/assets/fire.webp">
-    <img src="/assets/fire.jpg" alt="Campfire at night" class="img-fluid rounded shadow w-100">
+    <img src="/assets/fire.jpg" alt="Campfire at night" class="img-fluid rounded shadow w-100 loaded-fade-in" onload="this.style.opacity=1">
     </picture>
 </div>
 
@@ -33,7 +33,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/fur4.webp">
-        <img src="/assets/fur4.jpeg" alt="Fursuiters canoeing on Seneca Lake" class="img-fluid rounded shadow">
+        <img src="/assets/fur4.jpeg" alt="Fursuiters canoeing on Seneca Lake" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -46,7 +46,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/fur2.webp">
-        <img src="/assets/fur2.jpg" alt="Fursuiters looking out over the lake from the dock" class="img-fluid rounded shadow">
+        <img src="/assets/fur2.jpg" alt="Fursuiters looking out over the lake from the dock" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -59,7 +59,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/wide.webp">
-        <img src="/assets/wide.jpg" alt="Wide open green fields surrounded by trees" class="img-fluid rounded shadow">
+        <img src="/assets/wide.jpg" alt="Wide open green fields surrounded by trees" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -72,7 +72,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/fur3.webp">
-        <img src="/assets/fur3.jpg" alt="Group photo of attendees and fursuiters in front of the main lodge" class="img-fluid rounded shadow">
+        <img src="/assets/fur3.jpg" alt="Group photo of attendees and fursuiters in front of the main lodge" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -85,7 +85,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/loc3.webp">
-        <img src="/assets/loc3.jpeg" alt="View of Seneca Lake through the trees from camp grounds" class="img-fluid rounded shadow">
+        <img src="/assets/loc3.jpeg" alt="View of Seneca Lake through the trees from camp grounds" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
@@ -98,7 +98,7 @@ F.L.A.W. takes place at Camp Whitman, right on the shore of Seneca Lake in New Y
     <div class="col-md-6">
         <picture>
         <source type="image/webp" srcset="/assets/loclodge.webp">
-        <img src="/assets/loclodge.jpeg" alt="The main lodge interior with exposed wood beams and lake views" class="img-fluid rounded shadow">
+        <img src="/assets/loclodge.jpeg" alt="The main lodge interior with exposed wood beams and lake views" class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
         </picture>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">

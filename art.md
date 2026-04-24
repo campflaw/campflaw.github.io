@@ -9,7 +9,7 @@ permalink: /art/
 Finnigan is the official F.L.A.W. mascot, a legendary sea serpent said to lurk in the depths of Seneca Lake. If you spot a ripple in the water during your weekend at camp... it might just be Finnigan saying hello!
 
 <div class="text-center my-4">
-    <img src="/assets/fin.png" alt="Finnigan the F.L.A.W. sea serpent mascot reference sheet" class="img-fluid rounded shadow w-100" style="max-width: 700px;">
+    <img src="/assets/fin.png" alt="Finnigan the F.L.A.W. sea serpent mascot reference sheet" class="loaded-fade-in img-fluid rounded shadow w-100" onload="this.style.opacity=1" style="max-width: 700px;">
 </div>
 
 ---

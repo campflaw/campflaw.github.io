@@ -61,6 +61,6 @@ permalink: /guidelines/
 <div class="text-center my-4">
     <picture>
     <source type="image/webp" srcset="/assets/suiters.webp">
-    <img src="/assets/suiters.jpg" alt="Fursuiters at F.L.A.W." class="img-fluid rounded shadow">
+    <img src="/assets/suiters.jpg" alt="Fursuiters at F.L.A.W." class="img-fluid rounded shadow loaded-fade-in" onload="this.style.opacity=1">
     </picture>
 </div>
